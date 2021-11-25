@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1605711487 source:c:\users\lyeuiechang\documents\codeblocks\12522 - thanos' return\12522.cpp
+	<iostream>
+	"function.h"
+
+1605711489 c:\users\lyeuiechang\documents\codeblocks\12522 - thanos' return\function.h
+	<iostream>
+	<cstring>
+	<iomanip>
+
+1605715800 source:c:\users\lyeuiechang\documents\codeblocks\12522 - thanos' return\function.cpp
+	<iostream>
+	"function.h"
+

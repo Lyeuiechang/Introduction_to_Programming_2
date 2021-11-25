@@ -1,0 +1,21 @@
+計算機程式設計二 Week 6 作業講解
+
+2139 - I2P(II)2020_Chen_week6_HW
+https://acm.cs.nthu.edu.tw/contest/2139/
+
+12388 - Heatstroke Bamboo Rats
+難易度：★★★★☆
+先備知識：Binary Search Tree
+說明：找到一個序列中是否存在欲搜尋的值，並在找到之後刪除之
+
+12391 - Lucky Ghoul Dawn baby
+難易度：★★★☆☆
+先備知識：Binary Search Tree
+說明：找到一個序列中是否存在欲搜尋的值
+
+12395 - Storm Area 51
+難易度：★★★★★
+先備知識：Syntax Expression Tree
+說明：給定一個 preorder 的數學運算式，請建立一顆 Syntax Tree，輸出一個 inorder 的形式(不含空格或者括弧)，並算出它的結果
+
+

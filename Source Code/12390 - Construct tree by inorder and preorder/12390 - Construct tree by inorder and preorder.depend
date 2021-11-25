@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602652699 source:c:\users\lyeuiechang\documents\codeblocks\12390 - construct tree by inorder and preorder\12390.c
+	"function.h"
+	<stdio.h>
+
+1602652705 c:\users\lyeuiechang\documents\codeblocks\12390 - construct tree by inorder and preorder\function.h
+
+1602655007 source:c:\users\lyeuiechang\documents\codeblocks\12390 - construct tree by inorder and preorder\function.c
+	"function.h"
+	<stdio.h>
+

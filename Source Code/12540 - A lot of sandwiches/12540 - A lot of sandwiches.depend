@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1606888337 source:c:\users\lyeuiechang\documents\codeblocks\12540 - a lot of sandwiches\12540.cpp
+	"function.h"
+
+1606888339 c:\users\lyeuiechang\documents\codeblocks\12540 - a lot of sandwiches\function.h
+	<iostream>
+	<string>
+
+1606925406 source:c:\users\lyeuiechang\documents\codeblocks\12540 - a lot of sandwiches\function.cpp
+	"function.h"
+

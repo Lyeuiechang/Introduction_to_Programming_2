@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605320595 source:c:\users\lyeuiechang\documents\codeblocks\12392 - heatstroke bamboo rats 2\12392.c
+	<stdio.h>
+	<string.h>
+	"function.h"
+
+1605320638 c:\users\lyeuiechang\documents\codeblocks\12392 - heatstroke bamboo rats 2\function.h
+
+1605323292 source:c:\users\lyeuiechang\documents\codeblocks\12392 - heatstroke bamboo rats 2\function.c
+	<stdio.h>
+	<string.h>
+	"function.h"
+

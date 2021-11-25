@@ -1,0 +1,16 @@
+計算機程式設計二 Week 5 作業講解
+
+2124 - I2P(II)2020_Chen_week5_HW
+https://acm.cs.nthu.edu.tw/contest/2124/
+
+12390 - Construct tree by inorder and preorder
+難易度：★★★☆☆
+先備知識：Binary Tree
+說明：給定 Binary Tree 的 Inorder 與 Preorder，請建立一顆樹並印出 Postorder
+提示：強烈建議參閱本周 iLMS Binary Tree 講義
+
+12145 - Species of Knuckles
+難易度：★★☆☆☆
+先備知識：程設一期末作業題庫
+說明：給定一堆 Knuckles ，請判斷是否有可能全部換成同一種類型的 Knuckles
+
