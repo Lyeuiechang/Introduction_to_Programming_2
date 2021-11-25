@@ -1,0 +1,26 @@
+計算機程式設計二 Midterm 1 練習題解析
+
+2148 - I2P(II) 2020_Chen_mid1_practice
+https://acm.cs.nthu.edu.tw/contest/2148/
+
+12138 - too many treasures
+難易度：★★☆☆☆
+先備知識：前綴和
+解析：找出使得 Osas 被指定的區間總和最大
+附註：程設一題庫範圍
+
+12254 - Thanos' Dilemma
+難易度：★★☆☆☆
+先備知識：快速冪
+解析：請求一個遞迴之值，並用矩陣加速運算
+附註：程設一題庫範圍
+
+12405 - Construct tree by inorder and postorder 
+難易度：★★★☆☆
+先備知識：Binary Tree
+解析：給定 Inorder 與 Postorder，建一顆 Binary Tree 並印出 Preorder
+
+12435 - Go Down Chicken
+難易度：★★★★★
+先備知識：快速冪、Binary Search、Qsort、Scanf 格式化
+解析：給定一個 3*ai 的牆面，試問拼出的方法數最先在第幾回合得到

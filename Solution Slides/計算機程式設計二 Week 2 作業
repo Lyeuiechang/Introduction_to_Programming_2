@@ -1,0 +1,21 @@
+計算機程式設計二 Week 2 作業
+
+2106 - I2P(II)2020_Chen_HW2
+https://acm.cs.nthu.edu.tw/contest/2106/
+
+12301 - Uncle Huang choose Tutor(Easy version)
+難易度：★★☆☆
+先備知識：約瑟夫斯問題、環狀 Linked List
+解析：黃書書選家教問題，透過約瑟夫斯的方式剃除到只剩下的一個為何
+附註：程設一期末考題庫範圍
+
+12303 - Operation on Sequence
+難易度：★★★☆
+先備知識：環狀 Linked List
+解析：依照題目的指令需求去操作一個序列
+附註：程設一題庫中標記為其他的題目範圍
+
+12350 - Typing 
+難易度：★★★☆
+先備知識：環狀 Linked List
+解析：依照題目的指令需求去操作一個序列，使之模擬一個編輯器

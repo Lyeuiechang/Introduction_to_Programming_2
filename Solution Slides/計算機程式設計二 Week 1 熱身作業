@@ -1,0 +1,27 @@
+計算機程式設計二 Week 1 熱身作業
+範圍：C 指標
+做題順序：由上而下
+
+熱身題：
+
+11686 - more simple exercise of pointer on array
+https://acm.cs.nthu.edu.tw/problem/11686/
+說明：C 指標資料互換
+
+11219 - Get your array and then sort it! 
+https://acm.cs.nthu.edu.tw/problem/11219/
+說明：C 指標資料轉型
+
+實戰去年暑假作業：
+
+10193 - moocHW6a  
+https://acm.cs.nthu.edu.tw/problem/10193/
+10194 - moocHW6b
+https://acm.cs.nthu.edu.tw/problem/10194/
+10195 - moocHW6c  
+https://acm.cs.nthu.edu.tw/problem/10195/
+說明：陳煥宗第一次程設二上課講解暑假作業，可參閱
+https://github.com/htchen/i2p-nthu/blob/master/程式設計二/mid1/1-寒假作業講解.md
+與
+https://lms.nthu.edu.tw/course.php?courseID=40567&f=doc&cid=2012818
+取得相關作業題的解釋與講義說明

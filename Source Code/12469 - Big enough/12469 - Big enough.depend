@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1606921046 source:c:\users\lyeuiechang\documents\codeblocks\12469 - big enough\12469.cpp
+	"function.h"
+	<iostream>
+	<string>
+
+1606888329 c:\users\lyeuiechang\documents\codeblocks\12469 - big enough\function.h
+	<iostream>
+	<algorithm>
+	<string>
+
+1606921431 source:c:\users\lyeuiechang\documents\codeblocks\12469 - big enough\function.cpp
+	"function.h"
+	<iostream>
+	<string>
+

@@ -1,0 +1,21 @@
+計算機程式設計二 HW3 作業解析
+
+2115 - I2P(II)2020_Chen_HW3
+https://acm.cs.nthu.edu.tw/contest/2115/
+
+12219 - Uncle Huang Points Tutor 
+難易度：★★☆☆☆
+先備知識：快速冪
+解析：給定 x, y 與 m ，請求 ((xy)%m) 之值
+附註：程設一題庫範圍
+
+12241 - Restaurants in Hsinchu
+難易度：★★☆☆☆
+先備知識：快速冪
+解析：請求出斐波那契数列的第 i 項
+附註：程設一題庫範圍
+
+12371 - Crazy give head
+難易度：★★★☆☆
+先備知識：前綴和
+解析：請找出這些指令中 p 字串出現次數最多的值
